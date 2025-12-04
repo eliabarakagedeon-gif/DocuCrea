@@ -1,0 +1,8 @@
+{
+  "name": "DocCrea",
+  "description": "Créez des mini-documentaires professionnels en quelques minutes grâce à l'IA.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
